@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className="flex h-screen w-screen items-center justify-center font-[Outfit]">
-        <div className="my-auto flex h-[36rem] w-[320px] flex-col justify-around rounded-xl bg-[#14243D] p-[18px]">
+        <div className="my-auto flex h-[576px] w-[320px] flex-col justify-around rounded-xl bg-[#14243D] p-[18px]">
           <div>
             <div className="absolute -mt-2 flex h-[284px] w-[284px] cursor-pointer items-center justify-center rounded-md opacity-0 hover:bg-[#65FFF9]/[0.63] hover:opacity-100">
               <img src={IconView} alt="View" className="absolute" />
