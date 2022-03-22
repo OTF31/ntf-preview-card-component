@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ntf-preview-card-component/static/css/main.90dadca3.css",
-    "main.js": "/ntf-preview-card-component/static/js/main.467eb6b4.js",
+    "main.css": "/ntf-preview-card-component/static/css/main.9018b399.css",
+    "main.js": "/ntf-preview-card-component/static/js/main.d1c97921.js",
     "static/js/787.5ec25e04.chunk.js": "/ntf-preview-card-component/static/js/787.5ec25e04.chunk.js",
     "static/media/image-equilibrium.jpg": "/ntf-preview-card-component/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/ntf-preview-card-component/index.html",
     "static/media/icon-view.svg": "/ntf-preview-card-component/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
     "static/media/icon-clock.svg": "/ntf-preview-card-component/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
     "static/media/icon-ethereum.svg": "/ntf-preview-card-component/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
-    "main.90dadca3.css.map": "/ntf-preview-card-component/static/css/main.90dadca3.css.map",
-    "main.467eb6b4.js.map": "/ntf-preview-card-component/static/js/main.467eb6b4.js.map",
+    "main.9018b399.css.map": "/ntf-preview-card-component/static/css/main.9018b399.css.map",
+    "main.d1c97921.js.map": "/ntf-preview-card-component/static/js/main.d1c97921.js.map",
     "787.5ec25e04.chunk.js.map": "/ntf-preview-card-component/static/js/787.5ec25e04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90dadca3.css",
-    "static/js/main.467eb6b4.js"
+    "static/css/main.9018b399.css",
+    "static/js/main.d1c97921.js"
   ]
 }
