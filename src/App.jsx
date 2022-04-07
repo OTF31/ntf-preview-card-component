@@ -7,10 +7,10 @@ import ImageEquilibrium from "./assets/image-equilibrium.jpg";
 function App() {
   return (
     <>
-      <div className="flex h-screen w-screen items-center justify-center font-[Outfit]">
-        <div className="my-auto flex h-[576px] w-[320px] flex-col justify-around rounded-xl bg-[#14243D] p-[18px]">
+      <div className="flex min-h-screen w-screen min-w-[350px] items-center justify-center font-[Outfit]">
+        <div className="my-[15px] flex h-[576px] w-[320px] flex-col justify-around rounded-xl bg-[#14243D] p-[18px]">
           <div>
-            <div className="absolute -mt-2 flex h-[284px] w-[284px] cursor-pointer items-center justify-center rounded-md opacity-0 hover:bg-[#65FFF9]/[0.63] hover:opacity-100">
+            <div className="absolute -mt-2 flex h-[284px] w-[284px] cursor-pointer items-center justify-center rounded-md opacity-0 transition duration-500 ease-in-out hover:bg-[#65FFF9]/[0.63] hover:opacity-100">
               <img src={IconView} alt="View" className="absolute" />
             </div>
             <img
