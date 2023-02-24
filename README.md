@@ -4,6 +4,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ---
 
-[See in GitHub Pages](https://denisomarcuyottito.github.io/ntf-preview-card-component/)
+[See in GitHub Pages](https://OTF31.github.io/ntf-preview-card-component/)
 
 ![image](https://user-images.githubusercontent.com/75378049/159399179-dd3d3ba0-69c3-4a2e-bedd-7d036e1faf08.png)
